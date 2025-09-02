@@ -1,0 +1,7 @@
+pandas>=2.2.0
+numpy>=1.26.0
+transformers>=4.42.0
+accelerate>=0.30.0
+sentencepiece>=0.2.0
+pytest>=8.0.0
+flake8>=7.0.0
